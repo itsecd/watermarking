@@ -28,7 +28,7 @@
 <tr>
 <td>1</td>
 <td>Системы встраивания информации</td>
-<td>Презентации <a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-1">Презентации</a></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-1">Презентации</a></td>
 <td></td>
 </tr>
 
@@ -68,8 +68,8 @@
 
 ### Общие материалы
 
-- [Порядок выполнения лабораторных работ](https://github.com/itsecd/watermarking/blob/main/lectures/labs/labs-implementation.pdf)
-- [Очки за лабы и дедлайны](https://github.com/itsecd/watermarking/blob/main/lectures/labs/lab-scores.pdf)
+- [Порядок выполнения лабораторных работ](https://github.com/itsecd/watermarking/blob/main/labs/labs-implementation.pdf)
+- [Очки за лабы и дедлайны](https://github.com/itsecd/watermarking/blob/main/labs/lab-scores.pdf)
 
 ### Задания и материалы для выполнения лабораторных работ
 
