@@ -1,14 +1,14 @@
-# Лабораторная работа 1
+# Р›Р°Р±РѕСЂР°С‚РѕСЂРЅР°СЏ СЂР°Р±РѕС‚Р° 1
 
-## Материалы задания
+## РњР°С‚РµСЂРёР°Р»С‹ Р·Р°РґР°РЅРёСЏ
 
-- [Задание на лабу](https://github.com/itsecd/watermarking/labs/lab-1/lab-1.pdf)
-- [Теория: практическое пособие, стр. 33-39]
+- [Р—Р°РґР°РЅРёРµ РЅР° Р»Р°Р±Сѓ](https://github.com/itsecd/watermarking/labs/lab-1/lab-1.pdf)
+- [РўРµРѕСЂРёСЏ: РїСЂР°РєС‚РёС‡РµСЃРєРѕРµ РїРѕСЃРѕР±РёРµ, СЂР°Р·РґРµР»С‹ 3.1-3.2]
 
-## Файлы
+## Р¤Р°Р№Р»С‹
 
-- [Полутоновой контейнер для встраивания](https://github.com/itsecd/watermarking/labs/lab-1/goldhill.tif)
-- [Цветной RGB-контейнер для встраивания](https://github.com/itsecd/watermarking/labs/lab-1/baboon.tif)
-- [Встраиваемое изображение 1 (псевдобинарное)](https://github.com/itsecd/watermarking/labs/lab-1/ornament.tif)
-- [встраиваемое изображение 2 (псевдобинарное)](https://github.com/itsecd/watermarking/labs/lab-1/mickey.tif) - для вариантов со встраиванием в двух разных битовых плоскостях
+- [РџРѕР»СѓС‚РѕРЅРѕРІРѕР№ РєРѕРЅС‚РµР№РЅРµСЂ РґР»СЏ РІСЃС‚СЂР°РёРІР°РЅРёСЏ](https://github.com/itsecd/watermarking/labs/lab-1/goldhill.tif)
+- [Р¦РІРµС‚РЅРѕР№ RGB-РєРѕРЅС‚РµР№РЅРµСЂ РґР»СЏ РІСЃС‚СЂР°РёРІР°РЅРёСЏ](https://github.com/itsecd/watermarking/labs/lab-1/baboon.tif)
+- [Р’СЃС‚СЂР°РёРІР°РµРјРѕРµ РёР·РѕР±СЂР°Р¶РµРЅРёРµ 1 (РїСЃРµРІРґРѕР±РёРЅР°СЂРЅРѕРµ)](https://github.com/itsecd/watermarking/labs/lab-1/ornament.tif)
+- [РІСЃС‚СЂР°РёРІР°РµРјРѕРµ РёР·РѕР±СЂР°Р¶РµРЅРёРµ 2 (РїСЃРµРІРґРѕР±РёРЅР°СЂРЅРѕРµ)](https://github.com/itsecd/watermarking/labs/lab-1/mickey.tif) - РґР»СЏ РІР°СЂРёР°РЅС‚РѕРІ СЃРѕ РІСЃС‚СЂР°РёРІР°РЅРёРµРј РІ РґРІСѓС… СЂР°Р·РЅС‹С… Р±РёС‚РѕРІС‹С… РїР»РѕСЃРєРѕСЃС‚СЏС…
 
