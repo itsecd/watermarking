@@ -2,11 +2,17 @@
 
 ## Содержание
 - [Текущая успеваемость](#текущая-успеваемость)
+- [Учебные пособия](#учебные-пособия)
 - [Лекции](#лекции)
 - [Лабораторные работы](#лабораторные-работы)
 
 ## Текущая успеваемость
 - [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1QKTO71BdjT6PTS7ymIEWY_s37kR4IFOPp9Bl75QIn4E/edit?usp=sharing)
+
+## Учебные пособия
+
+- [Практическое пособие](https://github.com/itsecd/watermarking/blob/main/textbooks/practical-textbook.pdf)
+- [Теоретическое пособие](https://github.com/itsecd/watermarking/blob/main/textbooks/theoretical-textbook.pdf)
 
 ## Лекции
 
