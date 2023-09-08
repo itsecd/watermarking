@@ -21,14 +21,14 @@
 <tr>
 <td>0</td>
 <td>Организационные вопросы</td>
-<td><a href="https://github.com/itsecd/watermarking/lectures/lecture-00-general-questions.pdf">Презентация</a></td>
+<td><a href="https://github.com/itsecd/watermarking/blob/main/lectures/lecture-00-general-questions.pdf">Презентация</a></td>
 <td/>
 </tr>
  
 <tr>
 <td>1</td>
 <td>Системы встраивания информации</td>
-<td>Презентации <a href=https://github.com/itsecd/watermarking/lectures/chapter-1/">Презентации</a></td>
+<td>Презентации <a href=https://github.com/itsecd/watermarking/blob/main/lectures/chapter-1/">Презентации</a></td>
 <td></td>
 </tr>
 
@@ -68,8 +68,8 @@
 
 ### Общие материалы
 
-- [Порядок выполнения лабораторных работ](https://github.com/itsecd/watermarking/lectures/labs/labs-implementation.pdf)
-- [Очки за лабы и дедлайны](https://github.com/itsecd/watermarking/lectures/labs/lab-scores.pdf)
+- [Порядок выполнения лабораторных работ](https://github.com/itsecd/watermarking/blob/main/lectures/labs/labs-implementation.pdf)
+- [Очки за лабы и дедлайны](https://github.com/itsecd/watermarking/blob/main/lectures/labs/lab-scores.pdf)
 
 ### Задания и материалы для выполнения лабораторных работ
 
@@ -83,7 +83,7 @@
 <tr>
 <td>1</td>
 <td>Простейшие методы встраивания информации в полутоновые изображения</td>
-<td><a href="https://github.com/itsecd/watermarking/lectures/labs/lab-1/">Ссылка</a></td>
+<td><a href="https://github.com/itsecd/watermarking/blob/main/lectures/labs/lab-1/">Ссылка</a></td>
 </tr>
 
 </tr>
