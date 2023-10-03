@@ -94,13 +94,13 @@
 </tr>
 
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Встраивание ЦВЗ в спектр изображений на основе технологии расширения спектра</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-2/">Ссылка</a></td>
 </tr>
 
 <tr>
-<td>1</td>
+<td>3</td>
 <td>Исследование стойкости систем цифровых водяных знаков к искажениям носителя информации</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-3/">Ссылка</a></td>
 </tr>
