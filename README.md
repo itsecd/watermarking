@@ -41,13 +41,14 @@
 <tr>
 <td>2</td>
 <td>Особенности представления и человеческого восприятия сигналов</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-2">Презентации</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Основные подходы при встраивании и извлечении информации</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-3">Презентации</a></td>
 <td></td>
 <td></td>
 </tr>
@@ -91,6 +92,19 @@
 <td>Простейшие методы встраивания информации в полутоновые изображения</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-1/">Ссылка</a></td>
 </tr>
+
+<tr>
+<td>1</td>
+<td>Встраивание ЦВЗ в спектр изображений на основе технологии расширения спектра</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-2/">Ссылка</a></td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Исследование стойкости систем цифровых водяных знаков к искажениям носителя информации</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-3/">Ссылка</a></td>
+</tr>
+
 
 </tr>
 </table>
