@@ -50,13 +50,12 @@
 <td>Основные подходы при встраивании и извлечении информации</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-3">Презентации</a></td>
 <td></td>
-<td></td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>Примеры систем встраивания информации в цифровые сигналы</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-4">Презентации</a></td>
 <td></td>
 </tr>
 
