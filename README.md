@@ -62,7 +62,7 @@
 <tr>
 <td>5</td>
 <td>Атаки на системы встраивания информации</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-5">Презентации</a></td>
 <td></td>
 </tr>
 
@@ -102,6 +102,12 @@
 <td>3</td>
 <td>Исследование стойкости систем цифровых водяных знаков к искажениям носителя информации</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-3/">Ссылка</a></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Реализация и исследование методов НЗБ-стегоанализа изображений</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-4/">Ссылка</a></td>
 </tr>
 
 
