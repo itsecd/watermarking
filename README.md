@@ -105,7 +105,7 @@
 </tr>
 
 <tr>
-<td>3</td>
+<td>4</td>
 <td>Реализация и исследование методов НЗБ-стегоанализа изображений</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-4/">Ссылка</a></td>
 </tr>
