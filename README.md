@@ -6,8 +6,9 @@
 - [Лекции](#лекции)
 - [Лабораторные работы](#лабораторные-работы)
 
-## Текущая успеваемость
+## Зачёт и успеваемость
 - [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1QKTO71BdjT6PTS7ymIEWY_s37kR4IFOPp9Bl75QIn4E/edit?usp=sharing)
+- [Вопросы к зачёту](https://github.com/itsecd/watermarking/blob/main/questions-2023.pdf)
 
 ## Учебные пособия
 
