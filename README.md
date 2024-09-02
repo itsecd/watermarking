@@ -7,7 +7,7 @@
 - [Лабораторные работы](#лабораторные-работы)
 
 ## Зачёт и успеваемость
-- [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1QKTO71BdjT6PTS7ymIEWY_s37kR4IFOPp9Bl75QIn4E/edit?usp=sharing)
+- Табличка текущей успеваемости
 - [Вопросы к зачёту](https://github.com/itsecd/watermarking/blob/main/questions-2023.pdf)
 
 ## Учебные пособия
@@ -90,25 +90,31 @@
 <tr>
 <td>1</td>
 <td>Простейшие методы встраивания информации в полутоновые изображения</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-1/">Ссылка</a></td>
+<td></td>
 </tr>
 
 <tr>
 <td>2</td>
 <td>Встраивание ЦВЗ в спектр изображений на основе технологии расширения спектра</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-2/">Ссылка</a></td>
+<td></td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Исследование стойкости систем цифровых водяных знаков к искажениям носителя информации</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-3/">Ссылка</a></td>
+<td></td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>Реализация и исследование методов НЗБ-стегоанализа изображений</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-4/">Ссылка</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>???</td>
+<td></td>
 </tr>
 
 
