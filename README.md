@@ -7,7 +7,7 @@
 - [Лабораторные работы](#лабораторные-работы)
 
 ## Зачёт и успеваемость
-- Табличка текущей успеваемости
+- [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1qyHDGBIhPvDO-L8xeTr3mTwkmvUVIxbdWcxRlBdP_9U/edit?usp=sharing)
 - [Вопросы к зачёту](https://github.com/itsecd/watermarking/blob/main/questions-2023.pdf)
 
 ## Учебные пособия
@@ -26,44 +26,52 @@
 </tr>
 
 <tr>
-<td>0</td>
+<td></td>
 <td>Организационные вопросы</td>
 <td><a href="https://github.com/itsecd/watermarking/blob/main/lectures/lecture-00-general-questions.pdf">Презентация</a></td>
 <td/>
 </tr>
  
 <tr>
+<td>0</td>
+<td>Структура курса</td>
+<td><a href="https://github.com/itsecd/watermarking/blob/main/lectures/lecture-01-course-introduction.pdf">Презентация</a></td>
+<td><a href="https://vimeo.com/1008744642">Видео</a></td>
+</tr>
+ 
+  
+<tr>
 <td>1</td>
 <td>Системы встраивания информации</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-1">Презентации</a></td>
-<td></td>
+<td><a href="https://vimeo.com/1008751097">1.1</a><br><a href="https://vimeo.com/1008775786">1.2</a></td>
 </tr>
 
 <tr>
 <td>2</td>
 <td>Особенности представления и человеческого восприятия сигналов</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-2">Презентации</a></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-2">Презентации (не текущего года)</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Основные подходы при встраивании и извлечении информации</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-3">Презентации</a></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-3">Презентации (не текущего года)</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>Примеры систем встраивания информации в цифровые сигналы</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-4">Презентации</a></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-4">Презентации (не текущего года)</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>5</td>
 <td>Атаки на системы встраивания информации</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-5">Презентации</a></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-5">Презентации (не текущего года)</a></td>
 <td></td>
 </tr>
 
@@ -90,7 +98,7 @@
 <tr>
 <td>1</td>
 <td>Простейшие методы встраивания информации в полутоновые изображения</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/lectures/labs/lab-1/">Ссылка</a></td>
 </tr>
 
 <tr>
