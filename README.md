@@ -49,28 +49,28 @@
 <tr>
 <td>2</td>
 <td>Особенности представления и человеческого восприятия сигналов</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-2">Презентации</a><br>(до 2024 года)</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-2">Презентации</a><br>(до 2024)</td>
 <td></td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Основные подходы при встраивании и извлечении информации</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-3">Презентации</a><br>(до 2024 года)</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-3">Презентации</a><br>(до 2024)</td>
 <td></td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>Примеры систем встраивания информации в цифровые сигналы</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-4">Презентации</a><br>(до 2024 года)</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-4">Презентации</a><br>(до 2024)</td>
 <td></td>
 </tr>
 
 <tr>
 <td>5</td>
 <td>Атаки на системы встраивания информации</td>
-<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-5">Презентации</a><br>(до 2024 года)</td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-5">Презентации</a><br>(до 2024)</td>
 <td></td>
 </tr>
 
