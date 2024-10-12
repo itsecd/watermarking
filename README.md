@@ -43,7 +43,7 @@
 <td>1</td>
 <td>Системы встраивания информации</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-1">Презентации</a></td>
-<td><a href="https://vimeo.com/1008751097">1.1</a><br><a href="https://vimeo.com/1008775786">1.2</a></td>
+<td><a href="https://vimeo.com/1008751097">1.1</a><br><a href="https://vimeo.com/1008775786">1.2</a><br><a href="https://mega.nz/file/Kw1GkDDL#QWmzmXMEYKYg8T7kQq35G4YQi1fW95yGU6sc2k3oLEI">1.2</a></td>
 </tr>
 
 <tr>
@@ -103,19 +103,19 @@
 <tr>
 <td>2</td>
 <td>Встраивание ЦВЗ в спектр изображений на основе технологии расширения спектра</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-2/">Ссылка</a></td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Исследование стойкости систем цифровых водяных знаков к искажениям носителя информации</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-3/">Ссылка</a></td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>Реализация и исследование методов НЗБ-стегоанализа изображений</td>
-<td></td>
+<td><a href="https://github.com/itsecd/watermarking/tree/main/labs/lab-4/">Ссылка</a></td>
 </tr>
 
 <tr>
