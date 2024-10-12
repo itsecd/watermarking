@@ -43,7 +43,7 @@
 <td>1</td>
 <td>Системы встраивания информации</td>
 <td><a href="https://github.com/itsecd/watermarking/tree/main/lectures/chapter-1">Презентации</a></td>
-<td><a href="https://vimeo.com/1008751097">1.1</a><br><a href="https://vimeo.com/1008775786">1.2</a><br><a href="https://mega.nz/file/Kw1GkDDL#QWmzmXMEYKYg8T7kQq35G4YQi1fW95yGU6sc2k3oLEI">1.2</a></td>
+<td><a href="https://vimeo.com/1008751097">1.1</a><br><a href="https://vimeo.com/1008775786">1.2</a><br><a href="https://mega.nz/file/Kw1GkDDL#QWmzmXMEYKYg8T7kQq35G4YQi1fW95yGU6sc2k3oLEI">1.3</a></td>
 </tr>
 
 <tr>
