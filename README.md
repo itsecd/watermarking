@@ -7,7 +7,7 @@
 
 ## Экзамен и успеваемость
 - [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1qyHDGBIhPvDO-L8xeTr3mTwkmvUVIxbdWcxRlBdP_9U/edit?usp=sharing)
-- [Вопросы к экзамену (2023)](https://github.com/itsecd/watermarking/blob/main/questions-2023.pdf)
+- [Вопросы к экзамену](https://github.com/itsecd/watermarking/blob/main/questions-2023.pdf)
 
 ## Учебные пособия
 
