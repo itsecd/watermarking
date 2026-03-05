@@ -6,8 +6,8 @@
 - [Лабораторные работы](#лабораторные-работы)
 
 ## Экзамен и успеваемость
-- [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1qyHDGBIhPvDO-L8xeTr3mTwkmvUVIxbdWcxRlBdP_9U/edit?usp=sharing)
-- [Вопросы к экзамену](https://github.com/itsecd/watermarking/blob/main/questions-2024.pdf)
+- [Табличка текущей успеваемости](https://docs.google.com/spreadsheets/d/1rb-LNBIFJyW1IWvMbtYSnF3_CmYHGkyH-_RbELF_43Y/edit?usp=sharing)
+- [Вопросы к экзамену - 2024](https://github.com/itsecd/watermarking/blob/main/questions-2024.pdf)
 
 ## Учебные пособия
 
