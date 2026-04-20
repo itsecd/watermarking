@@ -8,4 +8,4 @@
 
 ## Файлы
 
-- [Датасет из 1000 изображений](https://mega.nz/file/q0NBiTJD#81n-vQ6nBeDTUNWc7S_MhATunDZwYPyzLxFcdIr7z5M)
+- [1000 изображений из датасета BOWS-2](https://mega.nz/file/yxdhCQSb#sGHzWJBVXZq4rDvYzPzniOQVAW9Ll2WI4CPpimVlUqA)
